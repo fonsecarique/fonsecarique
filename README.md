@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fonsecarique
 - 👀 I’m interested in physics and coding 
-- 🌱 I’m currently learning machine learning for network science
+- 🌱 I’m currently learning data processing learning for network science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
